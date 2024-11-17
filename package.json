@@ -1,7 +1,7 @@
 {
-  "name": "linkumori-extension-server",
+  "name": "Crx-Serve",
   "version": "1.0.0",
-  "description": "A server for proxying the Linkumori extension download and update manifest",
+  "description": "A proxy server for serving the latest CRX files and update manifests for browser extensions from GitHub releases.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
